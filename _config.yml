@@ -1,6 +1,7 @@
-title: Minimal theme
+remote_theme: halladam2014/minimal
+title: Home | Adam Hall
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+description: Adam hall, PhD Student
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-minimal
+
