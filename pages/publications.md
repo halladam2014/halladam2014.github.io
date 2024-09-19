@@ -4,6 +4,8 @@ title: Publications
 permalink: /pubications/
 ---
 
-# Publications
-Descriptions of current research projects and ongoing research interests.
-<br>An extended list of past significant research projects can be found on my <a href="http://halladam2014.github.io/projects/">projects</a> page.
+# Publications and Presentations
+
+_Flow organization in the near wake of isolated and sheltered 2D bar roughness elements._
+Hamed, A.M., O'Brien, C.T., Hall, A.J., Gallary, R.M., DaRosa, J.J., Goddard, Q.L., & McAtee, B.R.
+Physical Review Fluids 8, 2 (2023). <a href="10.1103/PhysRevFluids.8.024602">10.1103/PhysRevFluids.8.024602</a>
