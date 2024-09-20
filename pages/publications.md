@@ -20,3 +20,6 @@ Wake Growth in Nonlinear Stratification
 
 Time-Resolved 3D Measurements of the Flow Surrounding 2D Isolated and Tandem Roughness
 315 Annual Steinmetz Symposium, Union College, Schenectady, NY, May 2021
+
+# Patents
+Adam Hall, Allen Hall, Nicholas Gaudern, 2023. Wind turbine blade with a lightning protection system. Patent No: US11898541B2
