@@ -16,7 +16,7 @@ Experiments in Fluids 62, 163 (2021). <a href="doi.org/10.1007/00348-021-03261-0
 
 # Presentations
 _Wake Growth in Nonlinear Stratification._
-77h Annual Meeting of the APS Division of Fluid Dynamics, Salt Lake City, UT, November 2024 <a href="https://meetings.aps.org/Meeting/DFD24/Session/L28.3">Abstract</a>
+77th Annual Meeting of the APS Division of Fluid Dynamics, Salt Lake City, UT, November 2024 <a href="https://meetings.aps.org/Meeting/DFD24/Session/L28.3">Abstract</a>
 
 _Time-Resolved 3D Measurements of the Flow Surrounding 2D Isolated and Tandem Roughness._
 315th Annual Steinmetz Symposium, Union College, Schenectady, NY, May 2021
